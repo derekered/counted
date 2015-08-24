@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="AD_UNIT_ID">a1535ab61fdd9fb</string>
+    <string name="app_name">Counted</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add_counter">Add Counter</string>
+    <string name="title_activity_counter_detail">Counter Details</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_edit_counter">New Counter</string>
+    <string name="counter_name">Counter Name</string>
+    <string name="counter_description">Description</string>
+    <string name="counter_starting_count">Starting Count</string>
+    <string name="counter_increment_amount">Increment Amount</string>
+    <string name="counter_color">Color</string>
+    <string name="activity_edit_counter_color">Pick Color</string>
+    <string name="activity_edit_save">Save</string>
+    <string name="activity_edit_save_message">Changes saved!</string>
+    <string name="delete_dialog_message">Delete this counter?</string>
+    <string name="delete_dialog_positive_action">Delete</string>
+    <string name="delete_dialog_negative_action">Cancel</string>
+    <string name="welcome_title">Welcome to Counted!</string>
+    <string name="welcome_description">Counted is the app for counting. It\'s a simple and clean way to keep count of just about anything you can think of! 
+        \n\nScore of your game 
+        \n\nGuests at your party
+        \n\nWorkouts
+        \n\nSneezes  "</string>
+    <string name="welcome_create_counter">Create Your First Counter</string>
+
+</resources>
